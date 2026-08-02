@@ -1,19 +1,19 @@
-Blood Cell Classification using CNN and VGG16
-Project Overview
+# Blood Cell Classification using CNN and VGG16
+## Project Overview
 
 This project focuses on the classification of peripheral blood cell images using Deep Learning techniques. The objective is to automatically identify different blood cell types from microscopic images by developing and comparing a custom Convolutional Neural Network (CNN) and a Transfer Learning model based on VGG16.
 
 The project demonstrates the complete deep learning workflow, including data preprocessing, image augmentation, model development, evaluation, and performance comparison.
 -----------------------------------
-Dataset
+## Dataset
 
-Dataset: Peripheral Blood Cell (PBC) Dataset
+### Dataset: Peripheral Blood Cell (PBC) Dataset
 
-Source: Mendeley Data
+### Source: Mendeley Data
 
 https://data.mendeley.com/datasets/snkd93bnjr/1
 
-Classes
+### Classes
   Basophil
   Eosinophil
   Erythroblast
@@ -26,7 +26,7 @@ Classes
 Total Images: 17,093
 ---------------------------------
 
-Project Objectives
+## Project Objectives
   Explore and analyze the blood cell image dataset.
   Build a custom CNN model from scratch.
   Implement data augmentation techniques.
@@ -36,7 +36,7 @@ Project Objectives
   Analyze model results using evaluation metrics and visualizations.
 ---------------------------------
 
-Technologies Used
+## Technologies Used
   Python
   TensorFlow
   Keras
@@ -46,7 +46,7 @@ Technologies Used
   Google Colab
 
   ----------------------------------
-Project Workflow
+## Project Workflow
   1.Dataset Exploration
   2.Data Preprocessing
   3.Image Augmentation
