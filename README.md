@@ -69,3 +69,8 @@ https://data.mendeley.com/datasets/snkd93bnjr/1
 10. Conclusion
 
 ---
+
+## Contributions
+
+- Preprocessing and Model Building by Arya A R
+- VGG16 model by Priya Shill
